@@ -5,4 +5,4 @@ Here are the links to my notebooks for the graded Assignments:
 ## Week 1:
 https://gist.github.com/c0d3e35d5e571d341b0c9928356a2d5a
 ## Week 3:
-https://gist.github.com/e8ea2e86b83dfd3990e3e83663767b31
+https://gist.github.com/6d9f8b6bdeca0074c1919f971617fcab
