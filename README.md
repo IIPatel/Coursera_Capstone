@@ -10,7 +10,10 @@ https://gist.github.com/8382cab9b8391e8cefbf25357579e27b
 https://gist.github.com/1fd3569dbd2780fee1f84ae979cb9d3e
 ## Week 5:
   - Notebook:
-    https://gist.github.com/fd020f2f15b4442a64a5506f743f2238
+  https://gist.github.com/769bf4e2db4b133273390b3a3eff107c 
   - Report:
+  https://github.com/IIPatel/Coursera_Capstone/blob/master/Report%20(2).pdf
+  -Presentation:
+  https://prezi.com/view/M2ESiYiYHW1VoYVr585k/
     
   
