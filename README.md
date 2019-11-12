@@ -9,6 +9,8 @@ https://gist.github.com/8382cab9b8391e8cefbf25357579e27b
 ## Week 4:
 https://gist.github.com/1fd3569dbd2780fee1f84ae979cb9d3e
 ## Week 5:
+
+_Disclaimer: Some discrepancy may be encountered in the number of data points stated in the Report, Presentation and/or Run Code due to (which I think) updates on Foursquare's database._ 
   - Notebook:
   https://gist.github.com/769bf4e2db4b133273390b3a3eff107c 
   - Report:
