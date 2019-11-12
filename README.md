@@ -13,7 +13,7 @@ https://gist.github.com/1fd3569dbd2780fee1f84ae979cb9d3e
   https://gist.github.com/769bf4e2db4b133273390b3a3eff107c 
   - Report:
   https://github.com/IIPatel/Coursera_Capstone/blob/master/Report%20(2).pdf
-  -Presentation:
+  - Presentation:
   https://prezi.com/view/M2ESiYiYHW1VoYVr585k/
     
   
